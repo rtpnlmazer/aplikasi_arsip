@@ -39,7 +39,7 @@ Aplikasi ini dibuat untuk membantu instansi atau organisasi dalam:
 
 ---
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 1. Clone repo:
    ```bash
    git clone https://github.com/rtpnlmazer/aplikasi_arsip.git
